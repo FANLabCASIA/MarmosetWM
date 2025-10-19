@@ -5,7 +5,7 @@ The marmoset is a highly vocal platyrrhine monkey that shares key anatomical and
 Protocols to reconstruct major white matter tracts in marmosets, in a consistent manner with other primate species [1,2], situable with XTRACT [1].
 
 ## Code overview
-Step**X**.(_1_-_n_): codes for Figure **X** and attached Supplementary Figures.
+step**X**.(_1_-_n_): codes for Figure **X** and attached Supplementary Figures.
 
 ## References
 [1] Warrington, S. et al. XTRACT - Standardised protocols for automated tractography in the human and macaque brain. Neuroimage 217, 116923, doi:10.1016/j.neuroimage.2020.116923 (2020).
